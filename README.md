@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SamyakMdr
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Development
 - 📫 How to reach me samyak11manandhar@gmail.com
 
 <!---
