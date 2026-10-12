@@ -4,7 +4,7 @@ I enjoy turning ideas into clean, functional interfaces and continuously learnin
 
 📫 Reach me at  
 -Email: samyak11manandhar@gmail.com  
--Website: https://samyakmanandhar.netlify.app  
+-Website: https://samyakmanandhar.com.np  
 
 🌐 Connect with me  
 -Facebook: https://www.facebook.com/samyak.manandhar.10  
