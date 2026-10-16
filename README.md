@@ -1,5 +1,5 @@
 Hi, I’m Samyak Manandhar 👋  
-A BSc CSIT student and aspiring full-stack developer passionate about building practical, user-focused web applications.  
+A BSc.CSIT student and aspiring full-stack developer passionate about building practical, user-focused web applications.  
 I enjoy turning ideas into clean, functional interfaces and continuously learning modern web technologies.  
 
 📫 Reach me at  
